@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/brown_light_106"/>
+            <corners android:radius="4dp"/>
+        </shape>
+    </item>
+    <item
+        android:drawable="@drawable/ic_book_outline"
+        android:gravity="center"
+        android:left="20dp"
+        android:right="20dp"
+        android:top="20dp"
+        android:bottom="20dp"/>
+</layer-list>
